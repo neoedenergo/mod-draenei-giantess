@@ -1,6 +1,8 @@
 ## If you are on GitHub this is a mirror, the original repository with the latest updates is at [https://forgejo.neoeden.org/ergo/mod-draenei-giantess](https://forgejo.neoeden.org/ergo/mod-draenei-giantess)
 ---
 
+# mod-draenei-giantess
+
 A mod for the finest of gentlemen.
 
 ![Draenei Giantess Image](/draenei-giantess.png)
