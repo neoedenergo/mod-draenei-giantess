@@ -1,8 +1,12 @@
 # mod-draenei-giantess
 
+---
+## If you are on GitHub this is a mirror, the original repository with the latest updates is at [https://forgejo.neoeden.org/ergo/mod-draenei-giantess](https://forgejo.neoeden.org/ergo/mod-draenei-giantess)
+---
+
 A mod for the finest of gentlemen.
 
-![Alt Text](https://forgejo.neoeden.org/ergo/mod-draenei-giantess/raw/branch/main/draenei-giantess.png)
+![Draenei Giantess Image](/draenei-giantess.png)
 
 This feature-packed mod leverages the latest technologies to add an NPC that you can put on the entrance to Exodar so players can receive a warm welcome each time they go through the gate.
 
